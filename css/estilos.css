@@ -1,0 +1,88 @@
+/*html, body {
+  height: 100%;
+  width: 100%;
+  color: #f1f9f5;
+  text-align: center;
+  background-color: #040406;
+  }*/
+
+
+/*#TRIVIA2 {
+height: 100%;
+width: 70%;
+background: #67d61e; 
+ /* background-image: url(https://i.ibb.co/LrXx9Wk/asdasdasdasdas.png);*/
+ /* background-repeat: no-repeat;
+  /*background-size:contain;
+color: #ec1717;
+margin: 15px;
+padding: 10px;
+display: block;
+margin: 0px auto;
+
+}*/
+
+/*#RESPUESTA{
+  width: 80%;  
+  background: #0684c9;
+  transition: background-color.5s;
+  background-position:center;
+  color: #efeff0;
+  margin: 3%;
+  padding: 3%;
+  font-size: 120%;
+    }
+
+ #RESPUESTA:hover{
+   background-color: #d21ad1;
+ }   
+*/
+#BIENVENIDA {
+height: 100%;
+width: 70%;
+background: #5531e7; 
+  /*background-image: url(https://i.ibb.co/LrXx9Wk/asdasdasdasdas.png);*/
+  background-repeat: no-repeat;
+  background-size:contain;
+color: #f5f0f0;
+margin: 15px;
+padding: 10px;
+display: block;
+margin: 0px auto;
+}
+
+#TRIVIA {
+width: 70%;
+height:200px;
+background: #000000; 
+color: #d21ad1;
+margin: 5px;
+padding: 10px;
+display: box;
+margin: 0px auto;
+}
+
+.enlace{
+  color:white;
+  font-size: 30px;
+}
+
+#Hola {
+  color:rgb(245, 65, 134);
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+  background-color: red;
+  
+}
+
+#resp1, #resp2, #resp3, #resp4, #resp5, #resp6, #resp7, #resp8, #resp9{
+  background-color: white;
+  top: 50%;
+  left: 50%;
+  margin: 10px;
+  color: black;
+  style:; font-weight: bold;
+}
